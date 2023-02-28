@@ -1,3 +1,3 @@
 [submodule "Dataform"]
 	path = dataform_submodule
-	url = https://github.com/MilesTrevethan/dataform-sandbox
+	url = https://github.com/MilesTrevethan/dataform-sandbox.git
